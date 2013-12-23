@@ -1,4 +1,4 @@
 mininet-of-ccnx
 ===============
 
-Miniinet OpenFlow CCNx
+Mininet OpenFlow CCNx
