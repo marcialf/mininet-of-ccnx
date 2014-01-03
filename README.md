@@ -1,12 +1,9 @@
-
-Mini-CCNx: Rapid Prototyping for CCN networks
+Mini-OF-CCNx: Mininet OpenFlow CCNx Prototyping Framework
 ========================================================
 
-### What is Mini-CCNx?
+### What is Mini-OF-CCNx?
 
-Mini-CCNx is a Mininet fork that aims at extending Mininet to support
-the emulation of CCNx nodes. 
-
+Mini-OF-CCNx is a Mini-CCNx fork that extend Mini-CCNx, a Mininet CCNx implementation, to support OpenFlow forwarding.
 
 ### Installation
 
@@ -14,7 +11,7 @@ See `INSTALL` for installation instructions and details.
 
 ### Documentation
 
-[Mini-CCNx Wiki](https://github.com/carlosmscabral/mn-ccnx/wiki).
+[Mini-OF-CCNx Wiki](https://github.com/marcialf/mininet-of-ccnx/wiki).
 
 ### Credits
 
@@ -29,4 +26,11 @@ The Mini-CCNx team:
 
 * Carlos Cabral
 * Christian Esteve
+
+The Mini-OF-CCNx
+
+* Marcial Fernandez
+
+
+
 
