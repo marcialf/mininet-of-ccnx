@@ -27,7 +27,7 @@ The Mini-CCNx team:
 * Carlos Cabral
 * Christian Esteve
 
-The Mini-OF-CCNx
+The Mini-OF-CCNx team:
 
 * Marcial Fernandez
 
